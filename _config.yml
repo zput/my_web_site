@@ -19,11 +19,8 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
-source_dir: ../my_record/Technology_Construct
-#source_dir: ../my_record/Technology_Construct/1.systemAndProtocol
-#source_dir: ../my_record/Technology_Construct/2.applicationAndSoftware
-#source_dir: ../my_record/Technology_Construct/3.languageAndAD
-#source_dir: ../my_record/Technology_Construct/3.languageAndAD/Language/node
+source_dir: ../my_record/my_blog
+#source_dir: ../my_record/Technology_Construct
 
 public_dir: public
 tag_dir: tags
@@ -79,7 +76,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
-theme: next
+#theme: next
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
